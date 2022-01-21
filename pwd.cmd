@@ -1,1 +1,1 @@
-net user administrator Xroot11
+net user admin Xroot11
